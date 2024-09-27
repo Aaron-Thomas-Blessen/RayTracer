@@ -62,8 +62,6 @@ RayTracer uses two LDRs to detect sunlight intensity on both sides of the solar 
    ```
 3. Upload the provided Arduino code to control the servo motor based on LDR readings.
 
----
-
 ## **💻 Arduino Code**
 
 ```cpp
