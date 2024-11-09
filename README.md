@@ -148,6 +148,3 @@ We value your feedback to help improve **RayTracer**. If you have any suggestion
 
 For inquiries, please reach out to [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/) or [Twitter](https://twitter.com/aaron_blessen).
 
-
-
-Feel free to replace the placeholders with actual images for better visuals in your README!
